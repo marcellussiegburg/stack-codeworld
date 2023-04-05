@@ -1,0 +1,6 @@
+resolver: lts-20.17
+packages:
+  - codeworld-api-0.8.1
+  - commutative-semigroups-0.1.0.0
+  - patch-0.0.8.1
+  - reflex-0.9.0.0
