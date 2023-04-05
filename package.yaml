@@ -1,0 +1,22 @@
+---
+name: ProPa2023
+extra-source-files:
+  - README.md
+build-tools: []
+ghc-options:
+  - -Wall
+  - -Wincomplete-uni-patterns
+  - -Wincomplete-record-updates
+  - -Widentities
+  - -Wredundant-constraints
+dependencies:
+  - HUnit
+  - QuickCheck
+  - array
+  - base
+  - codeworld-api
+  - containers
+  - text
+library:
+  source-dirs: src
+  exposed-modules: []
